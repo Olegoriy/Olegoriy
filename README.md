@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨💻 About Me<br>🔭 I’m currently working on:  A responsive e-commerce platform using React & Redux.<br>🤝 I’m looking to collaborate on: Innovative web apps.<br>💬 Ask me about:<br>    Frontend tech: JS, TS, React, HTML/CSS, UI/UX design<br>    Tools: Git, Webpack, Vite, Figma<br>    Career tips for junior developers 💡<br>⚡ Fun fact:<br>When I'm not programming, I'm probably driving a car or making the perfect cup of coffee☕!
+# 👨💻 About Me
+<br>🔭 I’m currently working on:  A responsive e-commerce platform using React & Redux.<br>🤝 I’m looking to collaborate on: Innovative web apps.<br>💬 Ask me about:<br>    Frontend tech: JS, TS, React, HTML/CSS, UI/UX design<br>    Tools: Git, Webpack, Vite, Figma<br>    Career tips for junior developers 💡<br>⚡ Fun fact:<br>When I'm not programming, I'm probably driving a car or making the perfect cup of coffee☕!
 
 
 ## 🌐 Socials:
